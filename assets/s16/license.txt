@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sofa Chair
+* source:	https://sketchfab.com/3d-models/sofa-chair-5003689542d846ffa314c8a4ebca6d71
+* author:	Fraser Gray (https://sketchfab.com/FraserG)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sofa Chair" (https://sketchfab.com/3d-models/sofa-chair-5003689542d846ffa314c8a4ebca6d71) by Fraser Gray (https://sketchfab.com/FraserG) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

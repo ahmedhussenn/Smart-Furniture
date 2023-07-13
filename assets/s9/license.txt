@@ -1,0 +1,11 @@
+Model Information:
+* title:	Couch - midcentury modern
+* source:	https://sketchfab.com/3d-models/couch-midcentury-modern-f8def3c5f656454c935fe3d626ed9fab
+* author:	MozillaHubs (https://sketchfab.com/mozillareality)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Couch - midcentury modern" (https://sketchfab.com/3d-models/couch-midcentury-modern-f8def3c5f656454c935fe3d626ed9fab) by MozillaHubs (https://sketchfab.com/mozillareality) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

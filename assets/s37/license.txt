@@ -1,0 +1,11 @@
+Model Information:
+* title:	Traditional chairs
+* source:	https://sketchfab.com/3d-models/traditional-chairs-881e233eb56a47a98309ad68158494cc
+* author:	miqdame (https://sketchfab.com/miqdame)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Traditional chairs" (https://sketchfab.com/3d-models/traditional-chairs-881e233eb56a47a98309ad68158494cc) by miqdame (https://sketchfab.com/miqdame) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

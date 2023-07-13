@@ -1,0 +1,11 @@
+Model Information:
+* title:	dinner tabel
+* source:	https://sketchfab.com/3d-models/dinner-tabel-5430ef6f11f54c4a937cad8d8092e56d
+* author:	amitmaragaje1994 (https://sketchfab.com/amitmaragaje1994)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "dinner tabel" (https://sketchfab.com/3d-models/dinner-tabel-5430ef6f11f54c4a937cad8d8092e56d) by amitmaragaje1994 (https://sketchfab.com/amitmaragaje1994) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

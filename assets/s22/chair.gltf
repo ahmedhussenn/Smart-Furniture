@@ -1,0 +1,608 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5080,
+      "max": [
+        572.0420532226563,
+        -920.8425903320313,
+        87.16725158691406
+      ],
+      "min": [
+        -61.047157287597656,
+        -1711.737548828125,
+        -159.9547119140625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 60960,
+      "componentType": 5126,
+      "count": 5080,
+      "max": [
+        0.9999797940254211,
+        0.9997509121894836,
+        0.9998852610588074
+      ],
+      "min": [
+        -0.9999796748161316,
+        -0.9999978542327881,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5080,
+      "max": [
+        1.4097914695739746,
+        1.1128138303756714
+      ],
+      "min": [
+        -0.4097912311553955,
+        -0.40755343437194824
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 26952,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 121920,
+      "componentType": 5126,
+      "count": 76,
+      "max": [
+        380.0,
+        430.0,
+        70.0
+      ],
+      "min": [
+        -380.0,
+        -430.0,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 122832,
+      "componentType": 5126,
+      "count": 76,
+      "max": [
+        1.0,
+        0.9983511567115784,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 107808,
+      "componentType": 5125,
+      "count": 204,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 123744,
+      "componentType": 5126,
+      "count": 844,
+      "max": [
+        431.5513916015625,
+        531.1876220703125,
+        229.73155212402344
+      ],
+      "min": [
+        -431.5514221191406,
+        -430.0001220703125,
+        -28.318401336669922
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 133872,
+      "componentType": 5126,
+      "count": 844,
+      "max": [
+        0.9998801350593567,
+        0.9980109333992004,
+        0.9996477365493774
+      ],
+      "min": [
+        -0.9998765587806702,
+        -0.9993599653244019,
+        -0.9996641874313354
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 40640,
+      "componentType": 5126,
+      "count": 844,
+      "max": [
+        1.353886365890503,
+        1.112786889076233
+      ],
+      "min": [
+        -0.3538866639137268,
+        -0.3538866639137268
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 108624,
+      "componentType": 5125,
+      "count": 4284,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 144000,
+      "componentType": 5126,
+      "count": 52395,
+      "max": [
+        -892.3410034179688,
+        119.981201171875,
+        829.9644775390625
+      ],
+      "min": [
+        -1768.0892333984375,
+        -843.5570678710938,
+        70.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 772740,
+      "componentType": 5126,
+      "count": 52395,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 47392,
+      "componentType": 5126,
+      "count": 52395,
+      "max": [
+        1.4270869493484497,
+        1.4376838207244873
+      ],
+      "min": [
+        -0.4270869493484497,
+        -0.352472186088562
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 125760,
+      "componentType": 5125,
+      "count": 256836,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "saintkastiell (https://sketchfab.com/saintkastiell)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/armchair-a06728bf03d04de5a10a8a7c5ebc62d6",
+      "title": "Armchair"
+    },
+    "generator": "Sketchfab-13.74.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1153104,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 466552,
+      "byteOffset": 1153104,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1401480,
+      "byteOffset": 1619656,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3021136,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "Paddington-02_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Paddington-02",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.44685545708329777
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9899636880863927,
+          0.7799998482828516,
+          0.2779875461775427,
+          1.0
+        ],
+        "roughnessFactor": 0.08723531347905067
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object043_Paddington-02\t_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rectangle001_������������_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4
+          },
+          "indices": 6,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rectangle002_Paddington-02\t_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 8,
+            "POSITION": 7,
+            "TEXCOORD_0": 9
+          },
+          "indices": 10,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Box088_Paddington-02\t_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 12,
+            "POSITION": 11,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        -0.0010000000474974513,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "264c912e252a493099c245f5b97dbf2a.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        7,
+        9,
+        11
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        1444.337158203125,
+        414.98223876953125,
+        -3268.431640625,
+        1.0
+      ],
+      "name": "Group001"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        196.4306640625,
+        -104.07470703125,
+        -67.36566162109375,
+        1.0
+      ],
+      "name": "Object043"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -457.977294921875,
+        1317.2841796875,
+        56.0018310546875,
+        1.0
+      ],
+      "name": "Object_5"
+    },
+    {
+      "mesh": 0,
+      "name": "Object043_Paddington-02\t_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.859130859375,
+        -18.72998046875,
+        -414.98223876953125,
+        1.0
+      ],
+      "name": "Rectangle001"
+    },
+    {
+      "mesh": 1,
+      "name": "Rectangle001_������������_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        0.7750440239906311,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.7750440239906311,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.7750440239906311,
+        0.0,
+        0.859130859375,
+        -128.732421875,
+        -323.03424072265625,
+        1.0
+      ],
+      "name": "Rectangle002"
+    },
+    {
+      "mesh": 2,
+      "name": "Rectangle002_Paddington-02\t_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -298.961669921875,
+        195.8857421875,
+        -11.3802490234375,
+        1.0
+      ],
+      "name": "Box088"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1629.1767578125,
+        182.6603546142578,
+        -403.60198974609375,
+        1.0
+      ],
+      "name": "Object_12"
+    },
+    {
+      "mesh": 3,
+      "name": "Box088_Paddington-02\t_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tumba
+* source:	https://sketchfab.com/3d-models/tumba-163aa375869d4e9e864ec2ce53bca3fd
+* author:	saintkastiell (https://sketchfab.com/saintkastiell)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tumba" (https://sketchfab.com/3d-models/tumba-163aa375869d4e9e864ec2ce53bca3fd) by saintkastiell (https://sketchfab.com/saintkastiell) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

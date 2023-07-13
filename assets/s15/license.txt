@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sofa
+* source:	https://sketchfab.com/3d-models/sofa-757f330f0ace4dedbb0ca92292590d88
+* author:	Cloudyfloat (https://sketchfab.com/Cloudyfloat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sofa" (https://sketchfab.com/3d-models/sofa-757f330f0ace4dedbb0ca92292590d88) by Cloudyfloat (https://sketchfab.com/Cloudyfloat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

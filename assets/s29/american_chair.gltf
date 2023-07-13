@@ -1,0 +1,320 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 27491,
+      "max": [
+        24.71822738647461,
+        39.71514129638672,
+        -0.006110191345214844
+      ],
+      "min": [
+        -24.71822738647461,
+        -38.76959991455078,
+        -44.32246017456055
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 329892,
+      "componentType": 5126,
+      "count": 27491,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 27491,
+      "max": [
+        0.9972254037857056,
+        0.9849708676338196
+      ],
+      "min": [
+        0.0027680310886353254,
+        0.002769273705780506
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 147276,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 659784,
+      "componentType": 5126,
+      "count": 7710,
+      "max": [
+        25.0,
+        25.0,
+        -44.32246017456055
+      ],
+      "min": [
+        -25.0,
+        -30.889995574951172,
+        -94.2838134765625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 752304,
+      "componentType": 5126,
+      "count": 7710,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9987136125564575,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 219928,
+      "componentType": 5126,
+      "count": 7710,
+      "max": [
+        2.2757747173309326,
+        2.2732059955596924
+      ],
+      "min": [
+        -1.2757792472839355,
+        -1.2743358612060547
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 589104,
+      "componentType": 5125,
+      "count": 41340,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "valterjherson1 (https://sketchfab.com/valterjherson1)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/modern-chair-minimalistic-design-dfed98d205b54f9eb12dbd33e320df47",
+      "title": "Modern Chair Minimalistic Design"
+    },
+    "generator": "Sketchfab-13.74.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 754464,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 281608,
+      "byteOffset": 754464,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 844824,
+      "byteOffset": 1036072,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1880896,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_clearcoat"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 1.0,
+          "clearcoatRoughnessFactor": 0.05333349587351123
+        }
+      },
+      "name": "metal",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.775209617965722,
+          0.775209617965722,
+          0.775209617965722,
+          1.0
+        ],
+        "roughnessFactor": 0.13257183259987076
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "plastic",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.698184,
+          0.698184,
+          0.698184,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.0945543646812439,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.0995286549584135e-17,
+        -0.0945543646812439,
+        0.0,
+        0.0,
+        0.0945543646812439,
+        2.0995286549584135e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        0.1359676718711853,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -2.2922435867597492e-08,
+        0.13596767187118336,
+        0.0,
+        0.0,
+        -0.13596767187118336,
+        -2.2922435867597492e-08,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "object7_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_5"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

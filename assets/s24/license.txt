@@ -1,0 +1,11 @@
+Model Information:
+* title:	Groveland Square Dining Table
+* source:	https://sketchfab.com/3d-models/groveland-square-dining-table-7aaf2767b5f04a80b49c950f0bdb918a
+* author:	allenbranch (https://sketchfab.com/allenbranch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Groveland Square Dining Table" (https://sketchfab.com/3d-models/groveland-square-dining-table-7aaf2767b5f04a80b49c950f0bdb918a) by allenbranch (https://sketchfab.com/allenbranch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

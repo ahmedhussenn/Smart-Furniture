@@ -1,0 +1,11 @@
+Model Information:
+* title:	Closet
+* source:	https://sketchfab.com/3d-models/closet-7cbf9d5335b742ed9d7f9e40688379a9
+* author:	ray104051055 (https://sketchfab.com/ray104051055)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Closet" (https://sketchfab.com/3d-models/closet-7cbf9d5335b742ed9d7f9e40688379a9) by ray104051055 (https://sketchfab.com/ray104051055) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

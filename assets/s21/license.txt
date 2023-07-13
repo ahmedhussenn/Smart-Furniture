@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dining table and chairs
+* source:	https://sketchfab.com/3d-models/dining-table-and-chairs-f8f4a3bbf71e4300a2472c82bc305de9
+* author:	Purkkiananas (https://sketchfab.com/Purkkiananas)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dining table and chairs" (https://sketchfab.com/3d-models/dining-table-and-chairs-f8f4a3bbf71e4300a2472c82bc305de9) by Purkkiananas (https://sketchfab.com/Purkkiananas) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

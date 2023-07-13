@@ -1,0 +1,485 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4324,
+      "max": [
+        0.31608766317367554,
+        1.102026343345642,
+        0.2951492667198181
+      ],
+      "min": [
+        -0.3160875737667084,
+        0.025419307872653008,
+        -0.3306877911090851
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 51888,
+      "componentType": 5126,
+      "count": 4324,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4324,
+      "max": [
+        0.994912326335907,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 17718,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 103776,
+      "componentType": 5126,
+      "count": 2251,
+      "max": [
+        0.24183961749076843,
+        1.104720950126648,
+        0.29955917596817017
+      ],
+      "min": [
+        -0.24183963239192963,
+        0.3806536793708801,
+        -0.2425941824913025
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 130788,
+      "componentType": 5126,
+      "count": 2251,
+      "max": [
+        0.9999116659164429,
+        0.9999991655349731,
+        0.999896764755249
+      ],
+      "min": [
+        -0.9999116659164429,
+        -0.9995517730712891,
+        -0.9999868869781494
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 34592,
+      "componentType": 5126,
+      "count": 2251,
+      "max": [
+        0.9817813634872437,
+        0.9842793941497803
+      ],
+      "min": [
+        0.01171739399433136,
+        0.011644482612609863
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 70872,
+      "componentType": 5125,
+      "count": 12240,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 157800,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        0.3359549641609192,
+        0.049994125962257385,
+        0.29293012619018555
+      ],
+      "min": [
+        -0.3359565734863281,
+        5.913071163377026e-06,
+        -0.34609901905059814
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 167400,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        1.0,
+        0.999762773513794,
+        0.9997626543045044
+      ],
+      "min": [
+        -1.0,
+        -0.999762773513794,
+        -0.9997626543045044
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 52600,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        0.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        1.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 119832,
+      "componentType": 5125,
+      "count": 2340,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 177000,
+      "componentType": 5126,
+      "count": 516,
+      "max": [
+        0.25971299409866333,
+        0.5879719853401184,
+        0.08343555778265
+      ],
+      "min": [
+        -0.25971299409866333,
+        0.2799852788448334,
+        -0.020863831043243408
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 183192,
+      "componentType": 5126,
+      "count": 516,
+      "max": [
+        1.0,
+        0.9998477697372437,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9998477697372437,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 59000,
+      "componentType": 5126,
+      "count": 516,
+      "max": [
+        0.0318191759288311,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.6166744232177734
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 129192,
+      "componentType": 5125,
+      "count": 1188,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "vikashmurmoo (https://sketchfab.com/vikashmurmoo)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/office-chair-370a6056d3e14b1aa8c0836637501fc6",
+      "title": "Office Chair"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 133944,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 63128,
+      "byteOffset": 133944,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 189384,
+      "byteOffset": 197072,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 386456,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "OfficeChair_Fabric_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "OfficeChair_BlackShiny",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0335827,
+          0.0335827,
+          0.0335827,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "OfficeChair_Fabric",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "OfficeChair_BlackMatte",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0133092,
+          0.0133092,
+          0.0133092,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "OfficeChair_Chrome",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.95,
+        "roughnessFactor": 0.1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "OfficeChair_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_5"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_6"
+    },
+    {
+      "mesh": 3,
+      "name": "Object_7"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

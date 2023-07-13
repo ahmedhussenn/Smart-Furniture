@@ -1,0 +1,11 @@
+Model Information:
+* title:	Large 2 Seater Sofa
+* source:	https://sketchfab.com/3d-models/large-2-seater-sofa-4f6b62deaaf64a0880f43113d7c4a8f1
+* author:	AR Quick Look USDZ (https://sketchfab.com/pewcus-tunbek-4Buvso)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Large 2 Seater Sofa" (https://sketchfab.com/3d-models/large-2-seater-sofa-4f6b62deaaf64a0880f43113d7c4a8f1) by AR Quick Look USDZ (https://sketchfab.com/pewcus-tunbek-4Buvso) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

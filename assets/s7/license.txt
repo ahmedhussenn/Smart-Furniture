@@ -1,0 +1,11 @@
+Model Information:
+* title:	Besame_Chair_HP
+* source:	https://sketchfab.com/3d-models/besame-chair-hp-022d1ea9c01d48eaaf32e0ca30b44c1e
+* author:	Vitor.GomesPT (https://sketchfab.com/Vitor.Gomes1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Besame_Chair_HP" (https://sketchfab.com/3d-models/besame-chair-hp-022d1ea9c01d48eaaf32e0ca30b44c1e) by Vitor.GomesPT (https://sketchfab.com/Vitor.Gomes1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

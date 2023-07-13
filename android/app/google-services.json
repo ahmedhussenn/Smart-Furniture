@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232728309104",
+    "firebase_url": "https://smarthome-b446e-default-rtdb.firebaseio.com",
+    "project_id": "smarthome-b446e",
+    "storage_bucket": "smarthome-b446e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232728309104:android:0ab1000c76d5357a9c33b5",
+        "android_client_info": {
+          "package_name": "com.example.untitled8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232728309104-p62e7d33qv3r537e2ijvj6tri2ork4kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOt57DDDq1-5OQMtV7N3yNzGZe9qGD4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232728309104-p62e7d33qv3r537e2ijvj6tri2ork4kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

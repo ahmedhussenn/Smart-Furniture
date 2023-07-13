@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mid Century Coffee Table
+* source:	https://sketchfab.com/3d-models/mid-century-coffee-table-ccda30f5a56d473d86d94f95418ed646
+* author:	Bruce (https://sketchfab.com/brucemevans)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mid Century Coffee Table" (https://sketchfab.com/3d-models/mid-century-coffee-table-ccda30f5a56d473d86d94f95418ed646) by Bruce (https://sketchfab.com/brucemevans) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
