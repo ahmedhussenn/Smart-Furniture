@@ -1,6 +1,6 @@
-# Smart Home Automation
+# Smart Home 
 
-Welcome to the **Smart Home Automation** project! This project aims to bring convenience and security to your home using cutting-edge IoT technology.
+Welcome to the **Smart Home ** project! This project aims to bring convenience and security to your home using cutting-edge IoT technology.
 
 ## Key Features:
 - **Voice Control**: Manage your home appliances with voice commands.
