@@ -12,4 +12,4 @@ Welcome to the **Smart Home Automation** project! This project aims to bring con
 Follow these steps to set up and configure your own smart home system!
 
 ## Screenshot:
-![Smart Home](https://github.com/user-attachments/assets/aa75d8b8-56d3-48de-b4f6-f1670aa0f659 | width=300)
+<img src="https://github.com/user-attachments/assets/aa75d8b8-56d3-48de-b4f6-f1670aa0f659" width="300" height="300"/>
